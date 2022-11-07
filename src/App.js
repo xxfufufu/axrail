@@ -1,5 +1,3 @@
-import logo from "./logo.svg";
-import "./App.css";
 import Home from "./container/home/pages/Home";
 import Layout from "./component/Layout";
 
